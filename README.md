@@ -10,6 +10,8 @@ coursera-dl -u <user> -p <pass> python-statistics-financial-analysis
 
 ## Install Anaconda & setup
 
+Install Anaconda > https://www.anaconda.com/distribution/
+You should prefer to work with Python 3. End of Life for Python 2 has been scheduled. Due to the large volume of codebases still in Python 2, it's still useful to have both installed.
 
 ## Use git and github
 

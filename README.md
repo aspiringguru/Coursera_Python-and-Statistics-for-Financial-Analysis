@@ -17,5 +17,5 @@ You should prefer to work with Python 3. End of Life for Python 2 has been sched
 
 some quick and useful notes
 
-git status
+git status  
 git reset --hard

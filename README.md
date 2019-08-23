@@ -19,3 +19,9 @@ some quick and useful notes
 
 git status  
 git reset --hard
+
+
+## extra packages to install
+
+https://pypi.org/project/yahoofinancials/
+pip install yahoofinancials
